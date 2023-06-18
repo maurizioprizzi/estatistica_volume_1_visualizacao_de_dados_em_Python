@@ -1,0 +1,30 @@
+Jogos,Ano,Cidade,País,Continente
+1,1896,Atenas,Grécia,Europa
+2,1900,Paris,França,Europa
+3,1904,St. Louis,Estados Unidos,América do Norte
+4,1908,Londres,Reino Unido,Europa
+5,1912,Estocolmo,Suécia,Europa
+6,1920,Antuérpia,Bélgica,Europa
+7,1924,Paris,França,Europa
+8,1928,Amsterdã,Países Baixos,Europa
+9,1932,Los Angeles,Estados Unidos,América do Norte
+10,1936,Berlim,Alemanha,Europa
+11,1948,Londres,Reino Unido,Europa
+12,1952,Helsinque,Finlândia,Europa
+13,1956,Melbourne,Austrália,Oceania
+14,1960,Roma,Itália,Europa
+15,1964,Tóquio,Japão,Ásia
+16,1968,Cidade do México,México,América do Norte
+17,1972,Munique,Alemanha,Europa
+18,1976,Montreal,Canadá,América do Norte
+19,1980,Moscou,União Soviética,Europa
+20,1984,Los Angeles,Estados Unidos,América do Norte
+21,1988,Seul,Coreia do Sul,Ásia
+22,1992,Barcelona,Espanha,Europa
+23,1996,Atlanta,Estados Unidos,América do Norte
+24,2000,Sydney,Austrália,Oceania
+25,2004,Atenas,Grécia,Europa
+26,2008,Pequim,China,Ásia
+27,2012,Londres,Reino Unido,Europa
+28,2016,Rio de Janeiro,Brasil,América do Sul
+29,2021,Tóquio,Japão,Ásia
